@@ -1,0 +1,8 @@
+{
+    "domain": "mowas_warnings",
+    "name": "MoWaS Warnings",
+    "documentation": "https://github.com/jangottweiss/mowas-warnings",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": []
+}
